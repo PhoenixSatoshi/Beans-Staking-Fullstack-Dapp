@@ -1,4 +1,4 @@
-# Beans Staking Dapp
+# Beans Staking Fullstack Dapp
 
 The Beans Staking Dapp is a decentralized application built on the Ethereum blockchain that allows users to stake and earn rewards in the form of APY.  This project uses Node.js, Next.js, Moralis, Axios v1.3.6, Ethers v5.7.2, Wagmi v0.12.10, and web3uikit/icons.This has been created on the Sepolia Network for fun and should not be used for production or in a production environment.
 
